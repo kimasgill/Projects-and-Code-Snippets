@@ -2,7 +2,7 @@
 
 A repository of code snippets and projects I'm working on.
 
-## HTML Exercises
+### HTML Exercises
 HTML pages are written in code to be identical to the corresponding picture.  
 
 Example: 
