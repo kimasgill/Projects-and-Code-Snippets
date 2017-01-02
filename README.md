@@ -5,7 +5,7 @@ A repository of code snippets and projects I'm working on.
 ### HTML Exercises
 HTML pages are written in code to be identical to the corresponding picture.  I am provided a picture (png file) that I then code in HTML to be identical to the picture.
 
-Repository Structure Example: <br>
+HTML Exercises Folder Structure: <br>
 1. my_page.html<br>
 2. my_page_pic.png
 
