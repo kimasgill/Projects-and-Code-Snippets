@@ -11,4 +11,5 @@ HTML Exercises Folder Structure: <br>
 
 ### CSS Exercises
 1. Selectors CSS: I am given the HTML page and have CSS problems to solve in the CSS stylesheet.  The HTML file cannot be changed, only the CSS in order to practice using CSS selectors.  This exercise is for practice purposes only.
-2. Tic Tac Toe: Create a HTML and CSS page that resembles the Tictactoe.png file.  
+2. Tic Tac Toe: Create a HTML and CSS page that resembles the Tictactoe.png.  
+3. Photography Grid: Create a photograph grid to practice CSS box model.
