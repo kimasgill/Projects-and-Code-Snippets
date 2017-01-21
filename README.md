@@ -1,6 +1,6 @@
 # Projects
 
-A repository of code snippets and projects I'm working on.
+A repository of code snippets and projects I'm working on.  These projects are exercises from tutorials.
 
 ### HTML Exercises
 HTML pages are written in code to be identical to the corresponding picture.  I am provided a picture (png file) that I then code in HTML to be identical to the picture.
