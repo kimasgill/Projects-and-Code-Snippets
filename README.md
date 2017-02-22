@@ -2,6 +2,16 @@
 
 A repository of code snippets and projects I'm working on.  These projects are exercises from tutorials.
 
+### Tribute Page
+This was a tribute page I made for Michael Jackson.  It has a timeline of the highlights of his musical career.  Technologies used: 
+- HTML
+- CSS
+- Bootstrap.
+
+HTML Exercises Folder Structure: <br>
+1. my_page.html<br>
+2. my_page_pic.png
+
 ### HTML Exercises
 HTML pages are written in code to be identical to the corresponding picture.  I have provided a picture (png file) that I then code in HTML to be identical to the picture.
 
