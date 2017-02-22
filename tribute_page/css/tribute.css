@@ -1,0 +1,37 @@
+body {
+ text-align: center;
+}
+
+.container {
+   background-color: #EEEEEE;
+   margin: 40px auto;
+   border-radius: 10px
+}
+
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+img {
+  border-bottom: 30px solid #FFFFFF;
+  border-radius: 10px;
+}
+
+ul {
+  text-align: left;
+}
+
+.center {
+  text-align: left;
+  max-width: 700px;
+  margin: 20px auto;
+}
+
+.lead {
+  margin: 10px;
+  font-weight: lighter;
+}
