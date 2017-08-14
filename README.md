@@ -5,7 +5,11 @@ This readme file lists projects from most recent to least recent.
 
 ### ToDo List
 This is a Todo List Application that features CSS Animations when hovering over todo items.
-Technologies used: HTML, CSS, jQuery, Fontawesome Icons
+Technologies used: 
+- HTML
+- CSS
+- jQuery
+- Fontawesome Icons
 
 ### Tribute Page
 This is a tribute page showing the highlights of Michael Jackson's musical career.  Technologies used: 
