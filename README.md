@@ -1,9 +1,13 @@
 # Projects
 
-A repository of code snippets and projects I'm working on.  These projects are exercises from tutorials.
+A repository of code snippets and projects I'm working on.
+
+### ToDo List
+This is a Todo List Application that features CSS Animations when hovering over todo items.
+Technologies used: HTML, CSS, jQuery, Fontawesome Icons
 
 ### Tribute Page
-This was a tribute page I made for Michael Jackson.  It has a timeline of the highlights of his musical career.  Technologies used: 
+This is a tribute page showing the highlights of Michael Jackson's musical career.  Technologies used: 
 - HTML
 - CSS
 - Bootstrap.
