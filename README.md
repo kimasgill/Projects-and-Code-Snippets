@@ -12,10 +12,6 @@ This is a tribute page showing the highlights of Michael Jackson's musical caree
 - CSS
 - Bootstrap.
 
-HTML Exercises Folder Structure: <br>
-1. my_page.html<br>
-2. my_page_pic.png
-
 ### HTML Exercises
 HTML pages are written in code to be identical to the corresponding picture.  I have provided a picture (png file) that I then code in HTML to be identical to the picture.
 
